@@ -4,6 +4,7 @@
 * [Introduction](documentatio/Introduction.md)
 * [Core](documentation/Core.md)
 * Quick Start Guide
+   * Temp
 * [Building](documentation/Building.md)
 * [Flashing](documentation/Flashing.md)
 * [Booting](documentation/Booting.md)
