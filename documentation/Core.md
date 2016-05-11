@@ -152,4 +152,21 @@ TARGET_VENDOR = "-poky"
 
 LOCALCONF_VERSION = "1"
 ...
+SANITY_TESTED_DISTROS ?= " \
+            poky-1.7 \n \
+            poky-1.8 \n \
+            poky-2.0 \n \
+            Ubuntu-14.04 \n \
+            Ubuntu-14.10 \n \
+            Ubuntu-15.04 \n \
+            Ubuntu-15.10 \n \
+            Fedora-21 \n \
+            Fedora-22 \n \
+            Fedora-23 \n \
+            CentOS-6.* \n \
+            CentOS-7.* \n \
+            Debian-7.* \n \
+            Debian-8.* \n \
+            openSUSE-project-13.2 \n \
+            "
 ```
