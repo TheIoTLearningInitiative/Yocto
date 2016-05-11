@@ -34,3 +34,8 @@
 
 poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\conf\machine
 poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\recipes-kernel\oprofile\oprofile_1.1.0.bb
+poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\recipes-kernel\oprofile\oprofile_1.1.0.inc
+
+DEPENDS = "popt binutils"
+RDEPENDS_${PN} = "binutils-symlinks"
+RRECOMMENDS_${PN} = "kernel-vmlinux"
