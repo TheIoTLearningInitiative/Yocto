@@ -5,3 +5,4 @@
 - [Yocto Project About](https://www.yoctoproject.org/about)
 - [Yocto Project FAQ](https://wiki.yoctoproject.org/wiki/FAQ)
 
+## Embedded Systems
