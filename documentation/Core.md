@@ -23,4 +23,6 @@
 > Poky
 > > the reference system. It is a collection of projects and tools, used to bootstrap a new distribution based on the Yocto Project
 
+## Architecture
+
 <center><img src="http://www.yoctoproject.org/docs/2.0/yocto-project-qs/figures/yocto-environment.png"></center>
