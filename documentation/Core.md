@@ -174,3 +174,13 @@ SANITY_TESTED_DISTROS ?= " \
 ## OpenEmbedded Layers and 
 
 https://layers.openembedded.org/layerindex/branch/master/layers/
+
+
+> meta-intel
+> > Intel board support common layer (official)	Machine (BSP)	git://git.yoctoproject.org/meta-intel 
+
+> meta-intel-edison-bsp
+> > Intel Edison module support	Machine (BSP)	git://git.yoctoproject.org/meta-intel-edison 
+
+> meta-intel-quark
+> > Intel Quark platform support	Machine (BSP)	git://git.yoctoproject.org/meta-intel-quark 
