@@ -1,7 +1,7 @@
 # Introduction
 
 
-- [1](http://www.yoctoproject.org/docs/latest/yocto-project-qs/yocto-project-qs.html)
-- [2](https://www.yoctoproject.org/about)
-- [3](https://wiki.yoctoproject.org/wiki/FAQ)
+- [Yocto Project Quick Start](http://www.yoctoproject.org/docs/latest/yocto-project-qs/yocto-project-qs.html)
+- [Yocto Project About](https://www.yoctoproject.org/about)
+- [Yocto Project FAQ](https://wiki.yoctoproject.org/wiki/FAQ)
 
