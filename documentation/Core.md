@@ -138,4 +138,19 @@ index 51af031..a01ea2d 100644
 poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\conf\distro
 poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta-poky\conf\distro
 
+```sh
 
+DISTRO = "poky"
+DISTRO_NAME = "Poky (Yocto Project Reference Distro)"
+DISTRO_VERSION = "2.1+snapshot-${DATE}"
+DISTRO_CODENAME = "master"
+SDK_VENDOR = "-pokysdk"
+SDK_VERSION := "${@'${DISTRO_VERSION}'.replace('snapshot-${DATE}','snapshot')}"
+
+MAINTAINER = "Poky <poky@yoctoproject.org>"
+
+TARGET_VENDOR = "-poky"
+
+LOCALCONF_VERSION = "1"
+...
+```
