@@ -7,9 +7,10 @@ The base content for this Gitbook comes from "Introduction to the Yocto Project:
 - [Yocto Project About](https://www.yoctoproject.org/about)
 - [Yocto Project FAQ](https://wiki.yoctoproject.org/wiki/FAQ)
 
-## Embedded Systems
-
 
 ## Buildroot
 
 > Buildroot is a simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation. [Buildroot](https://buildroot.org/)
+
+## Embedded Systems
+
