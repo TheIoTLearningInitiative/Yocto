@@ -16,3 +16,8 @@ The base content for this Gitbook comes from "Introduction to the Yocto Project:
 
 ## Embedded Systems
 
+> An embedded system is a computer system with a dedicated function within a larger mechanical or electrical system, often with real-time computing constraints. It is embedded as part of a complete device often including hardware and mechanical parts. Embedded systems control many devices in common use today. 
+
+Components
+
+- 
