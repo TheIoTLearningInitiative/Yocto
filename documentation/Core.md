@@ -52,7 +52,7 @@ SRC_URI = "${SOURCEFORGE_MIRROR}/${BPN}/${BPN}-${PV}.tar.gz \
            file://0001-Add-rmb-definition-for-NIOS2-architecture.patch"
 ```
 
-## Upstream-Status: Pending
+### Upstream-Status: Pending
 
 ```sh
 Prevent running check tests on host if cross compiling
