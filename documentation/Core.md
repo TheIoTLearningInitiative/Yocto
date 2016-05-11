@@ -32,7 +32,7 @@
 
 ## Recipes
 
- - []http://recipes.yoctoproject.org/rrs/recipes/2.2/All/
+ - [](http://recipes.yoctoproject.org/rrs/recipes/2.2/All/)
 
 ## Some Theory
 
