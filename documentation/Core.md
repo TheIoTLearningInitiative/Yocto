@@ -32,9 +32,9 @@
 
 ## Guide
 
-poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\conf\machine
-poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\recipes-kernel\oprofile\oprofile_1.1.0.bb
-poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\recipes-kernel\oprofile\oprofile.inc
+- poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\conf\machine
+- poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\recipes-kernel\oprofile\oprofile_1.1.0.bb
+- poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\recipes-kernel\oprofile\oprofile.inc
 
 ```sh
 DEPENDS = "popt binutils"
