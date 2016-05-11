@@ -170,3 +170,7 @@ SANITY_TESTED_DISTROS ?= " \
             openSUSE-project-13.2 \n \
             "
 ```
+
+## OpenEmbedded Layers and 
+
+https://layers.openembedded.org/layerindex/branch/master/layers/
