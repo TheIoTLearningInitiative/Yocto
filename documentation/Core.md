@@ -139,7 +139,6 @@ poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\conf\distro
 poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta-poky\conf\distro
 
 ```sh
-
 DISTRO = "poky"
 DISTRO_NAME = "Poky (Yocto Project Reference Distro)"
 DISTRO_VERSION = "2.1+snapshot-${DATE}"
