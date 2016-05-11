@@ -5,5 +5,5 @@
 * [Core](documentation/Core.md)
 * [Building](documentation/Building.md)
 * [Flashing](documentation/Flashing.md)
-* Booting
+* [Booting](documentation/Booting.md)
 
