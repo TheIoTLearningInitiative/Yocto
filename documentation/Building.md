@@ -14,4 +14,3 @@ building.8> # you can explore what bitbake is doing: ps, pstree, top, htop, etc.
 ```
 
 Now you got an image under tmp/deploy!
-
