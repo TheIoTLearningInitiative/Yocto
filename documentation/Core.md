@@ -34,8 +34,20 @@
 
 poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\conf\machine
 poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\recipes-kernel\oprofile\oprofile_1.1.0.bb
-poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\recipes-kernel\oprofile\oprofile_1.1.0.inc
+poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\recipes-kernel\oprofile\oprofile.inc
 
+```sh
 DEPENDS = "popt binutils"
 RDEPENDS_${PN} = "binutils-symlinks"
 RRECOMMENDS_${PN} = "kernel-vmlinux"
+```
+
+```sh
+SRC_URI = "${SOURCEFORGE_MIRROR}/${BPN}/${BPN}-${PV}.tar.gz \
+           file://acinclude.m4 \
+           file://automake-foreign.patch \
+           file://oprofile-cross-compile-tests.patch \
+           file://run-ptest \
+           file://root-home-dir.patch \
+           file://0001-Add-rmb-definition-for-NIOS2-architecture.patch"
+```
