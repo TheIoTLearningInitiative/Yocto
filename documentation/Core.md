@@ -29,3 +29,7 @@
 ## Embedded Architecture Workflow
 
 <center><img src="http://www.yoctoproject.org/docs/2.0/yocto-project-qs/figures/yocto-environment.png"></center>
+
+## Guide
+
+intro\poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\recipes-kernel\oprofile
