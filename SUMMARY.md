@@ -2,5 +2,5 @@
 
 * [Cover](README.md)
 * [Introduction](documentatio/Introduction.md)
-* Core
+* [Core](documentation/Core.md)
 
