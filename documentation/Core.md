@@ -30,7 +30,7 @@
 
 <center><img src="http://www.yoctoproject.org/docs/2.0/yocto-project-qs/figures/yocto-environment.png"></center>
 
-## Recipes
+## Recipe Reporting System
 
  - [](http://recipes.yoctoproject.org/rrs/recipes/2.2/All/)
 
