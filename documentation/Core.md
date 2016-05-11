@@ -171,7 +171,7 @@ SANITY_TESTED_DISTROS ?= " \
             "
 ```
 
-## OpenEmbedded Layers and 
+## OpenEmbedded Layers and Recipes
 
 https://layers.openembedded.org/layerindex/branch/master/layers/
 
