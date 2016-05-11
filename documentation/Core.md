@@ -30,6 +30,10 @@
 
 <center><img src="http://www.yoctoproject.org/docs/2.0/yocto-project-qs/figures/yocto-environment.png"></center>
 
+## Recipes
+
+http://recipes.yoctoproject.org/rrs/recipes/2.2/All/
+
 ## Some Theory
 
 - poky-7ca60ec8bff7656b4e52f5a4d238913e851da089\meta\conf\machine
