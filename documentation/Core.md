@@ -14,6 +14,8 @@
 - [Yocto Git Server](http://git.yoctoproject.org/)
 - [Elizabeth Flanagan The Yocto Project](http://www.aosabook.org/en/yocto.html)
 
+## Components
+
 > BitBake
 > > the build engine. 
 > OpenEmbedded-Core
