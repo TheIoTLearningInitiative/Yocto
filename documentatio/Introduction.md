@@ -10,4 +10,5 @@
 
 ## Buildroot
 
-- [Buildroot ](https://buildroot.org/)
+
+[Buildroot](https://buildroot.org/)
