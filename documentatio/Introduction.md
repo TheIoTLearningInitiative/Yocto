@@ -16,4 +16,3 @@ The base content for this Gitbook comes from "Introduction to the Yocto Project:
 
 ## Embedded Systems
 
-
