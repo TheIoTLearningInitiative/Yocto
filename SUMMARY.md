@@ -6,6 +6,6 @@
 * Quick Start Guide
    * [Building](documentation/Building.md)
    * [Flashing](documentation/Flashing.md)
+   * [Booting](documentation/Booting.md)
    * Temp
-* [Booting](documentation/Booting.md)
 
