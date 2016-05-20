@@ -7,5 +7,5 @@
    * [Building](documentation/Building.md)
    * [Flashing](documentation/Flashing.md)
    * [Booting](documentation/Booting.md)
-* Sandbox
+* [Sandbox](documentation/Sandbox.md)
 
